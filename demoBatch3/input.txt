@@ -1,0 +1,4 @@
+id, marca, modelo
+1, opel, astra
+2, seat, león
+3, ford, ka
